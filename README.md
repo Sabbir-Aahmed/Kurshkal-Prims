@@ -12,7 +12,7 @@ weight.</li>
   <li>EXIT.</li>
 </ol>
 
-## Output Prims implementation:
+## Output of Prims implementation:
 
 ![prims](https://github.com/Sabbir-Aahmed/Kurshkal-Prims/assets/106438748/d8623bb5-f9ca-4617-bd14-90828607f5fa)
 
@@ -25,7 +25,7 @@ weight.</li>
   <li>EXIT.</li>
 </ol>
 
-## Output Kurshkal implementation:
+## Output of Kurshkal implementation:
 
 ![kurshkal](https://github.com/Sabbir-Aahmed/Kurshkal-Prims/assets/106438748/06dd040a-5ac1-4431-a2ce-900a21861a0f)
 
