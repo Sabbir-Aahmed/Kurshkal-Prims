@@ -16,7 +16,7 @@ weight.</li>
 
 ![prims](https://github.com/Sabbir-Aahmed/Kurshkal-Prims/assets/106438748/d8623bb5-f9ca-4617-bd14-90828607f5fa)
 
-### Prims Algorithm
+### Kurshkal Algorithm
 <ol>
   <li>Sort all the edges in non-decreasing order of their weight.</li>
   <li>Pick the smallest edge. Check if it forms a cycle with the spanning tree formed so far.
